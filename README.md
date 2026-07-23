@@ -25,3 +25,17 @@ location: Sri Lanka 🇱🇰
 focus: Cybersecurity · AI/ML · Flutter · Automation
 learning: Ethical Hacking · Vulnerability Assessments
 status: Always building, always learning
+🎓 Currently an undergraduate at University of Kelaniya
+🛡️ Deeply interested in Cybersecurity, Vulnerability Assessments, and Incident Response
+🤖 Building smart systems and mobile applications using AI/ML and Flutter
+💻 Actively training and expanding skills on platforms like TryHackMe
+🚀 Looking to collaborate on innovative tech projects
+⚡ "Building secure and intelligent solutions."
+🛠️ Tech Stack & Tools
+Cloud & Cybersecurity
+Languages
+Frameworks & Databases
+Tools
+🏆 GitHub Trophies
+📈 Contribution Activity
+🤝 Let's Connect
