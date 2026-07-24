@@ -31,11 +31,4 @@ status: Always building, always learning
 💻 Actively training and expanding skills on platforms like TryHackMe
 🚀 Looking to collaborate on innovative tech projects
 ⚡ "Building secure and intelligent solutions."
-🛠️ Tech Stack & Tools
-Cloud & Cybersecurity
-Languages
-Frameworks & Databases
-Tools
-🏆 GitHub Trophies
-📈 Contribution Activity
-🤝 Let's Connect
+
